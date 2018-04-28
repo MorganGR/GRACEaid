@@ -33,5 +33,7 @@ If you really don't have any time but have lots of money....well read on...
 To Donate something other than time to GRACEaid and the refugee Smart Contract
 
 **BTC: 16vbqtsBxXPWS7a6UAqijPomhUmu9EXMjF**
+
 **ΞTH: 0x236dAA98f115caa9991A3894ae387CDc13eaaD1B**
+
 **DGB: DNNrxrR76JmHkn1KVuxC2qgKNKzKpR6kYh**
