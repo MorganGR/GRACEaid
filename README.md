@@ -1,6 +1,5 @@
 # GRACEaid
-**Refugee Smart Contract
-**
+**Refugee Smart Contract**
 Awareness on the global refugee issues seems to be adequate but due to the nature of the problem being constant people tend to forget.
 This is a contract that attempts 3 items in one go:
 1. Raise awareness in the GIT/Crypto/Ethereum Community and further afield.
@@ -32,6 +31,6 @@ If you really don't have any time but have lots of money....well read on...
 
 To Donate something other than time to GRACEaid and the refugee Smart Contract
 
-**BTC: 16vbqtsBxXPWS7a6UAqijPomhUmu9EXMjF
-ΞTH: 0x236dAA98f115caa9991A3894ae387CDc13eaaD1B
-DGB: DNNrxrR76JmHkn1KVuxC2qgKNKzKpR6kYh**
+**BTC: 16vbqtsBxXPWS7a6UAqijPomhUmu9EXMjF**
+**ΞTH: 0x236dAA98f115caa9991A3894ae387CDc13eaaD1B**
+**DGB: DNNrxrR76JmHkn1KVuxC2qgKNKzKpR6kYh**
