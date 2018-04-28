@@ -1,5 +1,6 @@
 # GRACEaid
 **Refugee Smart Contract**
+
 Awareness on the global refugee issues seems to be adequate but due to the nature of the problem being constant people tend to forget.
 This is a contract that attempts 3 items in one go:
 1. Raise awareness in the GIT/Crypto/Ethereum Community and further afield.
@@ -12,7 +13,7 @@ We aim to give priority to the opposite side of the spectrum.
 All charities we deal with are 100% run by volunteers in the spare time (or full time) and are 100% grass roots teams(normal people like    you - not professionals in the sector).
 By writting the first smart contract on the issue we aim to raise awareness with all online and technology communities.
 
-**2. We are first of looking  for Ethereum** ecosystem developers and experts to provide a strategy and timeline for the first ever refugee related smart contract.
+**2. We are firstly looking  for Ethereum** ecosystem developers and experts to provide a strategy and timeline for the first ever refugee related smart contract.
 We don't want money...we want your time. Badly. Read on for the idea and if you like start writting...:)
 
 
